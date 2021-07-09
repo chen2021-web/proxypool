@@ -1,5 +1,5 @@
 # your domain
-domain: freedaili.cf
+domain: freedaili.herokuapp.com
 
 # database url
 database_url: "https://raw.githubusercontent.com/chen2021-web/proxypool/master/config/source.yaml"
